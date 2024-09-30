@@ -1,3 +1,3 @@
 [submodule "auction_site"]
 	path = auction_site
-	url = git@github.com:jsegal205/ruby.git
+	url = https://github.com/jsegal205/ruby.git
