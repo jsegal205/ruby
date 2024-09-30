@@ -29,3 +29,11 @@ gem install rails
 ```sh
 rails new app_name
 ```
+
+## troubleshooting
+
+Ensure that you have `.gem` directory for the current ruby version added to your path:
+
+```sh
+export PATH="/path/to/.gem/ruby/{{ruby-version}}/bin:$PATH"
+```
